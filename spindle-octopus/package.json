@@ -1,0 +1,22 @@
+{
+  "name": "spindle-octopus",
+  "version": "1.0.0",
+  "description": "put chromedriver in /usr/local/src",
+  "main": "query_database_test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nondominant/spindle-octopus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nondominant/spindle-octopus/issues"
+  },
+  "homepage": "https://github.com/nondominant/spindle-octopus#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
