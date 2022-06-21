@@ -7,6 +7,10 @@ let stdinBuffer = fs.readFileSync(process.stdin.fd);
 
 let objJson = JSON.parse(stdinBuffer);
 
+if(!objJson) {return;}
+try {const x = objJson.loginDetails[0].shiftDate; } catch { return; }
+
+
 //console.log(stdinBuffer.toString());
 //console.log(objJson);
 

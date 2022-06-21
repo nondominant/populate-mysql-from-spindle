@@ -1,0 +1,42 @@
+/home/sandworm/Workspace/work/spindle/curl_requests/extract_updated_info.js:14
+date = objJson.loginDetails[0].shiftDate;
+                               ^
+
+TypeError: Cannot read properties of undefined (reading 'shiftDate')
+    at Object.<anonymous> (/home/sandworm/Workspace/work/spindle/curl_requests/extract_updated_info.js:14:32)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at node:internal/main/run_main_module:17:47
+
+Node.js v18.3.0
+/home/sandworm/Workspace/work/spindle/curl_requests/extract_updated_info.js:14
+date = objJson.loginDetails[0].shiftDate;
+                               ^
+
+TypeError: Cannot read properties of undefined (reading 'shiftDate')
+    at Object.<anonymous> (/home/sandworm/Workspace/work/spindle/curl_requests/extract_updated_info.js:14:32)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at node:internal/main/run_main_module:17:47
+
+Node.js v18.3.0
+/home/sandworm/Workspace/work/spindle/curl_requests/extract_updated_info.js:14
+
+date = objJson.loginDetails[0].shiftDate;
+                               ^
+
+TypeError: Cannot read properties of undefined (reading 'shiftDate')
+    at Object.<anonymous> (/home/sandworm/Workspace/work/spindle/curl_requests/extract_updated_info.js:14:32)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at node:internal/main/run_main_module:17:47
+
